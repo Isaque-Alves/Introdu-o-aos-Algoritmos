@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (questao1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  questao2.cpp
+D:\CIÊNCIA DA COMPUTAÇÃO 2020.1\Introdução aos Algoritmos\Arquivos e Documentos\questao1\questao1\questao2.cpp(7,19): warning C4244:  '=': conversão de 'double' para 'float', possível perda de dados
+D:\CIÊNCIA DA COMPUTAÇÃO 2020.1\Introdução aos Algoritmos\Arquivos e Documentos\questao1\questao1\questao2.cpp(9,31): warning C4244:  '=': conversão de 'double' para 'float', possível perda de dados
+  questao1.vcxproj -> D:\CIÊNCIA DA COMPUTAÇÃO 2020.1\Introdução aos Algoritmos\Arquivos e Documentos\questao1\Debug\Questoes-Sequenciais.exe
